@@ -1,0 +1,7 @@
+#loopmile="1"
+#until [ "$nftFULLbalanceeth" = "Failed to call tokenOfOwnerByIndex: execution reverted" ]
+#do
+#   loopmile="$(($loopmile + 1))"
+#   echo "Current loop: $loopmile"
+#done
+#loopmile="1"
